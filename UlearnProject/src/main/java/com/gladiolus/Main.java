@@ -15,7 +15,6 @@ public class Main {
         var listSchools = schools.getListSchools();
         var dbHandler = DbHandler.getInstance();
         //listSchools.forEach(dbHandler::addProduct);
-        var map = new LinkedHashMap<String, Integer>();
         var countriesFromTask1 = new String[]{"Fresno", "Contra Costa", "El Dorado", "Glenn", "Tehama", "Placer", "Nevada", "San Mateo", "Madera", "Los Angeles"};
         var countriesFromTask2 = new String[]{"Fresno", "Contra Costa", "El Dorado", "Glenn"};
         var dataset = new DefaultCategoryDataset();
