@@ -17,14 +17,14 @@
   
   Выходные данные для первой задачи: 
   
-  ![image](https://user-images.githubusercontent.com/74546538/147416521-4d22c854-3505-49ba-a89a-d016d4e62096.png)
+  ![image](https://user-images.githubusercontent.com/74546538/147416808-76d1add3-1a2d-448a-b878-e0c113efe484.png)
   
   
   График для первой задачи: 
   ![image](https://user-images.githubusercontent.com/74546538/147416563-117a1d5d-9149-4927-b669-83a5fd8fa42b.png)
   
   Выходные данные для второй задачи: 
-  ![image](https://user-images.githubusercontent.com/74546538/147416533-082c61c2-5d22-47cc-a60d-cee204a90fa5.png)
+  ![image](https://user-images.githubusercontent.com/74546538/147416829-4a428b41-4655-4890-82d5-c46622e049b1.png)
   
   Выходные данные для nhtntq задачи: 
-  ![image](https://user-images.githubusercontent.com/74546538/147416537-27de8f9a-2f93-40b3-8c05-ee64cc033404.png)
+  ![image](https://user-images.githubusercontent.com/74546538/147416842-368a279a-3703-4018-be83-7a7a7672e8cf.png)
