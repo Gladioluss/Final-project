@@ -11,7 +11,7 @@ import java.util.LinkedHashMap;
 
 public class Main {
     public static void main(String[] args) throws SQLException, IOException {
-        var schools = new Schools("C:\\Users\\Danil\\IdeaProjects\\UlearnProject\\src\\main\\java\\com\\gladiolus\\school.csv");
+        var schools = new Schools("src/main/java/com/gladiolus/school.csv");
         var listSchools = schools.getListSchools();
         var dbHandler = DbHandler.getInstance();
         //listSchools.forEach(dbHandler::addProduct);
