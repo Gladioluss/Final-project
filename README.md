@@ -16,6 +16,7 @@
   7.1 При помощи sql запросовв методах: findAverageNumberPeopleInTenCountries, displayAverageAmountExpenses, displaySchoolWithMaxMath. Получаем данные для выполния задач. Так же мы строим график при помощи библиотеки JFreeChart для превой задачи.
   
   Выходные данные для первой задачи: 
+  
   ![image](https://user-images.githubusercontent.com/74546538/147416521-4d22c854-3505-49ba-a89a-d016d4e62096.png)
   
   
