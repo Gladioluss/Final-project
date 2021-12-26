@@ -18,6 +18,7 @@
   Выходные данные для первой задачи: 
   ![image](https://user-images.githubusercontent.com/74546538/147416521-4d22c854-3505-49ba-a89a-d016d4e62096.png)
   
+  
   График для первой задачи: 
   ![image](https://user-images.githubusercontent.com/74546538/147416563-117a1d5d-9149-4927-b669-83a5fd8fa42b.png)
   
