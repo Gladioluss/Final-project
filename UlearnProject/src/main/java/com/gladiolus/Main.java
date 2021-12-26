@@ -18,6 +18,7 @@ public class Main {
         var countriesFromTask1 = new String[]{"Fresno", "Contra Costa", "El Dorado", "Glenn", "Tehama", "Placer", "Nevada", "San Mateo", "Madera", "Los Angeles"};
         var countriesFromTask2 = new String[]{"Fresno", "Contra Costa", "El Dorado", "Glenn"};
         var dataset = new DefaultCategoryDataset();
+        System.out.println("Среднее количество студентов, в 10 различных странах:");
         for (var country : countriesFromTask1){
             var findAverageNumberPeopleInTenCountries = SQLTask.findAverageNumberPeopleInTenCountries(country, dbHandler.connection);
             System.out.printf("%s: %s%n",country, findAverageNumberPeopleInTenCountries);
